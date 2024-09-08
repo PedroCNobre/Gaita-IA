@@ -4,5 +4,4 @@ Esse trabalho foi feito utilizando Javascript para desenvolver uma IA, o objetiv
 Utilizamos a biblioteca P5.js, Teachable Machine para o treinamento do modelo e o Visual Studio Code como IDE.
 Obs: O modelo foi hospedado em um link da Teachable Machine então é necessário conexão com a internet para funcionar.
 Feito por:
-Pedro Christensen Nobre
-Ettore Ortiz de Campos Vallim
+Pedro Christensen Nobre e Ettore Ortiz de Campos Vallim
